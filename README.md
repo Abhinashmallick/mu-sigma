@@ -10,12 +10,17 @@ Contains button to search project, button to show projects in grid view/list vie
 
 # Main Body: 
 On selecting the project after searching it using search button on side panel, this component will show the project details in following SDLC phases:
+
       A. Design: Show the story in tile format containing developer name, story description, story point and % completed (tasks completed/tasks assigned) in Design Phase
-      B. Development: Shows the story in tile format containing developer name, story description, story point and % completed (tasks completed/tasks assigned) in Development Phase
-      C. Test: Shows the story in tile format containing developer name, story description, story point and % completed (tasks completed/tasks assigned) in Test Phase
-      D. Release: Shows the story in tile format containing developer name, story description, story point and % completed (tasks completed/tasks assigned) in Release Phase
-      E. Production: Shows the story in tile format containing developer name, story description, story point and % completed (tasks completed/tasks assigned) in Production Phase
       
+      B. Development: Shows the story in tile format containing developer name, story description, story point and % completed (tasks completed/tasks assigned) in Development Phase
+      
+      C. Test: Shows the story in tile format containing developer name, story description, story point and % completed (tasks completed/tasks assigned) in Test Phase
+      
+      D. Release: Shows the story in tile format containing developer name, story description, story point and % completed (tasks completed/tasks assigned) in Release Phase
+      
+      E. Production: Shows the story in tile format containing developer name, story description, story point and % completed (tasks completed/tasks assigned) in Production Phase
+           
 # Sign-up component:
 Allow new user to sign up for the application. Consist of registration form as per requirement
 
